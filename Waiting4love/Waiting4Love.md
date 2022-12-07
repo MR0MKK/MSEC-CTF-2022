@@ -4,7 +4,7 @@
 
 Mở chương trình trong Detect It Easy ta được:
 
-!(https://i.imgur.com/i4OdLRN.png)
+![Imgur](https://i.imgur.com/rXK6u9w.png)
 
 Ta có hàm main():
 
